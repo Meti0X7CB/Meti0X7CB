@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/meti0111)](https://discord.com/users/meti0111)
 <!--
 **Meti0X7CB/Meti0X7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
