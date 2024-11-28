@@ -9,5 +9,6 @@
 <div align="center">
   
   [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/meti0x7cb)
+  [![Twitch](https://img.shields.io/badge/twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/meti0x7cb)
 
 </div>
